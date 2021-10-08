@@ -8,3 +8,7 @@ const dog2 = 'https://pictures.s3.yandex.net/frontend-developer/functions/dog-2.
 'https://pictures.s3.yandex.net/frontend-developer/functions/dog-2.jpg'
 3
 Замените все объявления функций функциональными выражениями. Имена и код функций не меняйте.
+4
+Изучение любого языка программирования обычно начинается с кода, выводящего фразу Hello, world!
+Упростите жизнь новичкам JavaScript. Напишите функцию makeHelloWorld, которая возвращает другую функцию,
+выводящую в консоль фразу Hello, world!. Новички смогут просто обратиться к вашей функции и получить готовый код.
