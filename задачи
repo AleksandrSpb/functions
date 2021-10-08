@@ -1,0 +1,4 @@
+1
+Объявите константу dog1 в глобальной области видимости, а dog2 — внутри функции consoleDog.
+const dog1 = 'https://pictures.s3.yandex.net/frontend-developer/functions/dog-1.jpg';
+const dog2 = 'https://pictures.s3.yandex.net/frontend-developer/functions/dog-2.jpg';
