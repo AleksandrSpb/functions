@@ -10,11 +10,11 @@ const dogs = [
 const dogElement = document.querySelector('#dog');
 const buttonElement = document.querySelector('button');
 
-function getRandomArrId(arrLength) {
+let getRandomArrId = function (arrLength) {
     return Math.floor(Math.random() * arrLength);
 }
 
-function procrastinate() {
+let procrastinate = function() {
     dogElement.style.backgroundImage = `url(${dogs[getRandomArrId(dogs.length)]})`;
 }
 
