@@ -6,3 +6,5 @@ const dog2 = 'https://pictures.s3.yandex.net/frontend-developer/functions/dog-2.
 Нажмите на кнопку “Set Dog” — увидите щенка Хаски.
 Внутри функции setDog затените глобальную константу dog. Задайте значение локальной константе:
 'https://pictures.s3.yandex.net/frontend-developer/functions/dog-2.jpg'
+3
+Замените все объявления функций функциональными выражениями. Имена и код функций не меняйте.
